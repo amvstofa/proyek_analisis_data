@@ -7,7 +7,7 @@ pipenv shell
 
 # Run steamlit app
 
-streamlit run dashboard.py
+streamlit run dashboard/dashboard.py
 
 # RFM Analysis Dashboard
 
