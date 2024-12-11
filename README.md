@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Setup Environment - Shell/Terminal
 
 mkdir proyek_analisis_data
@@ -74,3 +75,6 @@ Bagian ini menghitung tiga metrik utama:
 ---
 
 **Aplikasi ini membantu dalam memahami pola data produk dan mendukung pengambilan keputusan yang lebih strategis.**
+=======
+# proyek_analisis_data
+>>>>>>> 357c15a95667f93481a48a496d40559d8bb051f5
